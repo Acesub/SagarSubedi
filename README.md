@@ -1,2 +1,2 @@
 # Css-Resume
-this is my resume made on css
+This is my practice resume made using HTML and CSS
