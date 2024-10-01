@@ -182,3 +182,15 @@ footer {
     width: 200px;
  }
 }
+@media(max-width: 485px){
+    header{
+        text-align: center;
+
+    }
+    nav {
+        font-size: small;
+    }
+ .img{
+    width: 200px;
+ }
+}
