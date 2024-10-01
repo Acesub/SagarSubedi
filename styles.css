@@ -72,7 +72,7 @@ header, footer {
 }
 .img {
     border-radius: 50%;
-    
+    padding-top: 25px;
 }
 header {
     padding-top: 50px;
